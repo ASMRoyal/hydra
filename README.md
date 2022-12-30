@@ -24,7 +24,7 @@
 1. open it!
 2. insert your target website (must be up)
 3. it starts the scan
-4. it shows up if the payloads work or not
+4. it shows up if the payloads works or not
 ```
 ### Showcase:
 
