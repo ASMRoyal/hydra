@@ -27,6 +27,7 @@
 4. it shows up if the payloads works or not
 ```
 ### Showcase:
+![image](https://github.com/ASMRoyal/hydra/assets/89786570/19c353e4-6a43-40b9-a11a-8ad9544b01fb)
 
 ![grafik](https://user-images.githubusercontent.com/89786570/209467052-5f774fc6-7167-4995-b307-615f68671920.png)
 
