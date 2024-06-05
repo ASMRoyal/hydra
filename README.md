@@ -22,7 +22,7 @@
 ### How does it work?
 ```
 1. open it!
-2. insert your target website (must be up)
+2. insert your target website (must be up & url without '?param=')
 3. it starts the scan
 4. it shows up if the payloads works or not
 ```
