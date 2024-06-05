@@ -12,7 +12,7 @@
 
 + its 7 kb large (6.935 Byte's)
 
-+ 56 lines of code
++ 76 lines of code
 
 + no included xss list
 
