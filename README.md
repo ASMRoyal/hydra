@@ -10,7 +10,7 @@
 
 + its written in C#
 
-+ its 6,50kb large (6.656 Byte's)
++ its 7 kb large (6.935 Byte's)
 
 + 56 lines of code
 
