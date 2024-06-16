@@ -3,7 +3,7 @@
 ### What is hydra?
 > its a xss scanner which works on Windows.
 
-> it tests Website's for xss Vulnerabilities and dumps them up on your Console.
+> it tests Website for xss Vulnerabilities and dumps them up on your Console.
 
 
 ### hydra informaiton's
